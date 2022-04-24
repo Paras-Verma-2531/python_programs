@@ -11,7 +11,7 @@ class Employee:
         print(self.Lastname)
         print(self.pay)
         print(self.email)
-employe1=Employee("Akshita","Singh","100000")
+employe1=Employee("Paras","Verma","100000")
 employe1.generateEmail()
 employe1.printDetails()
 
