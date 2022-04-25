@@ -15,7 +15,7 @@ class Train:
             for details in data:
                 print(details)
 Rajdhani=Train("Rajdhani","1220431")
-#Rajdhani.InputRoute("Rajdhani")
+Rajdhani.InputRoute("Rajdhani")
 Rajdhani.displayRoute("Rajdhani")            
 
 
